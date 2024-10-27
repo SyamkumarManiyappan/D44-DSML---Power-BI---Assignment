@@ -4,5 +4,5 @@ Here is the dataset of a store, which has branches all over the world. The stake
 1. Load the excel sheet in to Power BI desktop App.
 2. Select the tables and click on transform data. Data will open in power Query MEditor.
 3. Check the table and do necessary changes.
-4. Arrange the headers, Removing Null values ,removing duplicates etc...
+4. Arrange the headers, Removing Null values ,removing duplicates ,update Empty Values with Median etc...
 5. After did the Cleaning apply and close the power Query Editor. 
