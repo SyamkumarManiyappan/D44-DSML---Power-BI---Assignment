@@ -1,0 +1,15 @@
+## D44-DSML---Power-BI---Assignment
+## Data Visualization- PowerBI
+Here is the dataset of a store, which has branches all over the world. The stakeholders require the detailed report on their sale transaction. Perform the basic DAX Operations:
+
+1. Load the Previous data sheet in to power BI.
+2. Click on Model View Select the option Manage RelationShips on the top. 
+3. Add a New RelationShip,Select the From The table as "Order" and To Table As People.
+   cleck on save. then select another relation Orders and Returns. 
+
+A. Select the Table view and create in the help of Table Tools and DAX funstions in the same data sheet. 
+
+1. Creat a New Table.
+2. Creat A New Column.
+3. Use New Measure. 
+4. SUM / IF /.... Functions.
